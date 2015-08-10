@@ -4,3 +4,6 @@ This is a Rails implementation of my record-cabinet app, which was originally wr
 
 ### Screenshot of the original Record Cabinet app
 ![record cabinet](/record_cabinet.png)
+
+### Schema
+![database schema](/rc2_schema.png)
