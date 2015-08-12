@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
 
-  root 'cabinets#index'
+  root 'homepage#index'
+
+  resources :cabinets
 
   get '/signup' => 'users#new'
   post '/users' => 'users#create'
