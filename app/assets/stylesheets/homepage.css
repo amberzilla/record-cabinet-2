@@ -1,0 +1,28 @@
+a {
+  color: black;
+}
+
+a:hover {
+  color: #d81b60;
+}
+
+.row {
+  height: 20%;
+  margin-top: 5%;
+}
+
+.row .col.s6 {
+    width: 50%;
+    margin-left: 0;
+    border-right: 3px solid black;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+.lobster-font{
+  font-family: 'Lobster', cursive;
+}
+
+.top-padding-5{
+  padding-top: 5%;
+}
